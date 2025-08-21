@@ -3,7 +3,7 @@
 Uma calculadora simples de controle financeiro pessoal feita em Java.
 Permite cadastrar receitas, despesas e visualizar um resumo com saldo disponível.
 
-#Tecnologias utilizadas#
+# Tecnologias utilizadas #
 - Apache NetBeans;
 - Java;
 - Gson (Google);
